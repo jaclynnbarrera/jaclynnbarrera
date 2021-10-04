@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a full stack developer based in NYC - open to work.
+I'm a full stack developer based in NYC - open to work🤝
 
 ### currently working on
 - 📝 learning TypeScript
