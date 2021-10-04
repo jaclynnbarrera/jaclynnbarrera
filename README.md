@@ -1,10 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm a full stack developer based in NYC. As a creative, I’m driven by art, technology, music and culture. I’m passionate about building scalable applications and experiences that can help make a difference or simply brighten someones day.
+I'm a full stack developer based in NYC - open to work.
 
-When I'm not coding, I shoot film photography, make way too many music playlists and hang out with my dog Appa.
+### currently working on
+- 📝 learning TypeScript
+- 👩🏻‍🍳 building a plant-based recipe aggregator
 
-- Currently learning TypeScript
-- how to reach me: jaclynnbarrera@gmail.com
-- check out my [portfolio](https://jaclynnbarrera.herokuapp.com/)
-- here's my [resume](https://www.dropbox.com/s/wxhhvvuuljpvv7g/Jaclyn%20Barrera%20Resume.pdf?dl=0)
+
+### say hello
+- 🌐 check out my [portfolio](http://jaclynnbarrera.herokuapp.com/#/)
+- 📩 send me an email jaclynnbarrera@gmail.com
