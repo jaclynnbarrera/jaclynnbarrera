@@ -7,4 +7,4 @@ When I'm not coding, I shoot film photography, make way too many music playlists
 - Currently learning TypeScript
 - how to reach me: jaclynnbarrera@gmail.com
 - check out my [portfolio](https://jaclynnbarrera.herokuapp.com/)
-- [resume](https://www.dropbox.com/s/wxhhvvuuljpvv7g/Jaclyn%20Barrera%20Resume.pdf?dl=0)
+- here's my [resume](https://www.dropbox.com/s/wxhhvvuuljpvv7g/Jaclyn%20Barrera%20Resume.pdf?dl=0)
