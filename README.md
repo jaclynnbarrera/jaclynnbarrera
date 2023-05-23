@@ -1,4 +1,4 @@
-## Hola 👋
+## 👋
 
 Full stack developer based in NYC. 
 <br>
