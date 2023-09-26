@@ -1,5 +1,5 @@
 ## 👋
 
-Full stack developer based in NYC. 
+full stack developer based in nyc
 <br>
 email: jaclynnbarrera@gmail.com
